@@ -11,6 +11,6 @@ Darkseas - real_weather_en
 - It is a weather script that I made with the help of Weather API. It adjusts the weather of the game according to the current weather of Los Angeles.
 - You can change the city name from the <b><i>"Config.lua"</b></i> file.
 
-<b>I hope you will like, and sorry for my english!</b>
+<b>I hope you will like, and sorry for my English!</b>
 
 <b>You can write for your bug and your feedback.</b>
